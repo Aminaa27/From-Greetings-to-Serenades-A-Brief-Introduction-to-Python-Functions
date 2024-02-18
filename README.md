@@ -1,6 +1,5 @@
-# From-Greetings-to-Serenades-A-Brief-Introduction-to-Python-Functions
 The primary goal of this project was to impart a foundational understanding of Python functions to a friend through personalized tutoring. Subsequently, this led to the development of a comprehensive article aimed at explaining the fundamentals of functions in Python.    
-
+---
 ## From Greetings to Serenades: A Brief Introduction to Python Functions
 
 Embarking on the path of Python may seem challenging, but fear not - it's a journey filled with excitement and learning. As you venture into the world of Python, one of the fundamental concepts you'll learn early on is printing simple strings and phrases. With a single line of code, you can make your program speak! Try it out:
